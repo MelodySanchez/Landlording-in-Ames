@@ -1,0 +1,26 @@
+p {
+    text-align: center; /* Horizontally centers the text */
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 10vh; /* Makes the container take up the full viewport height */
+    font-family: 'Arial', sans-serif; /* Example font family */
+    font-size: 24px; /* Example font size */
+    font-weight: bold; /* Example font weight */
+    color: #000000; /* Example font color */
+    line-height: 1.5; /* Example line height */
+}
+
+
+p1 {
+    text-align: center; /* Horizontally centers the text */
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 0vh; /* Makes the container take up the full viewport height */
+    font-family: 'Arial', sans-serif; /* Example font family */
+    font-size: 24px; /* Example font size */
+    font-weight: bold; /* Example font weight */
+    color: #000000; /* Example font color */
+    line-height: 1.5; /* Example line height */
+}
